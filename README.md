@@ -64,52 +64,52 @@ Open-source solutions empower engineering and RevOps teams to build custom, self
 
 *Sorted descending by GitHub stargazers count:*
 
-1. **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+1. **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
    ✨ Open-source, self-hosted collaborative workspace and Notion alternative — ideal for building internal sales wikis, pitch playbooks, competitor battlecards, and customer-facing project notes.
 
-2. **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+2. **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
    🎨 Next-generation all-in-one knowledge base and visual whiteboard — perfect for visual discovery workshops, deal room mapping, and interactive collaborative pitch planning.
 
-3. **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+3. **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
    💼 Modern, extendable open-source CRM and sales operating system designed to provide full data control and natively connect reps to playbooks and deals.
 
-4. **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
+4. **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub_Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
    🤖 Drag-and-drop UI to build customized LLM flows — used to deploy custom AI role-play simulators, objection-handling bots, and real-time playbook retrieval agents for sellers.
 
-5. **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)  
+5. **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub_Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)  
    📅 Open-source scheduling infrastructure enabling sales teams to streamline demo routing, SDR-to-AE handoffs, and qualification meeting bookings.
 
-6. **[Outline](https://github.com/outline/outline)** [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
+6. **[Outline](https://github.com/outline/outline)** [![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
    📚 Blazing fast, intuitive open-source team knowledge base — standard tool for hosting governed sales playbooks, objection scripts, product FAQs, and battle cards.
 
-7. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+7. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
    💬 Open-source omnichannel buyer engagement and customer communication platform for real-time seller chat, inbound qualification, and buyer assistance.
 
-8. **[Wiki.js](https://github.com/requarks/wiki)** [![GitHub stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers)  
+8. **[Wiki.js](https://github.com/requarks/wiki)** [![GitHub_Stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers)  
    📖 Feature-rich, highly configurable open-source wiki engine with Git storage backends, Markdown/rich-text support, and granular permission controls for sales documentation.
 
-9. **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+9. **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
    ⚡ Open-source no-code business automation tool — seamlessly routes collateral, triggers enablement notifications in Slack/Discord, and automates CRM workflows.
 
-10. **[BookStack](https://github.com/BookStackApp/BookStack)** [![GitHub stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers)  
+10. **[BookStack](https://github.com/BookStackApp/BookStack)** [![GitHub_Stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers)  
     📑 Simple, opinionated open-source documentation system structured like Books, Chapters, and Pages — ideal for organizing step-by-step seller certification guides.
 
-11. **[Documenso](https://github.com/documenso/documenso)** [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)  
+11. **[Documenso](https://github.com/documenso/documenso)** [![GitHub_Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)  
     ✍️ The open-source DocuSign alternative — provides verifiable electronic signatures, automated agreement generation, and proposal closing workflows for sales reps.
 
-12. **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
+12. **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
     📋 Privacy-first experience management and micro-survey platform — measures buyer readiness, demo satisfaction, and seller training efficacy.
 
-13. **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
+13. **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub_Stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
     🛠️ Visual conversational form and chatbot builder — qualifies leads, dispenses relevant case studies dynamically, and schedules prospect meetings.
 
-14. **[Moodle](https://github.com/moodle/moodle)** [![GitHub stars](https://img.shields.io/github/stars/moodle/moodle?style=social&color=white)](https://github.com/moodle/moodle/stargazers)  
+14. **[Moodle](https://github.com/moodle/moodle)** [![GitHub_Stars](https://img.shields.io/github/stars/moodle/moodle?style=social&color=white)](https://github.com/moodle/moodle/stargazers)  
     🎓 Battle-tested open-source learning management system (LMS) used globally for structured seller onboarding curriculum, compliance quizzes, and multi-tier certifications.
 
-15. **[Frappe LMS](https://github.com/frappe/lms)** [![GitHub stars](https://img.shields.io/github/stars/frappe/lms?style=social&color=white)](https://github.com/frappe/lms/stargazers)  
+15. **[Frappe LMS](https://github.com/frappe/lms)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/lms?style=social&color=white)](https://github.com/frappe/lms/stargazers)  
     🧑‍🏫 Modern, lightweight open-source LMS built on Python/Frappe framework — excellent for modular sales onboarding courses, tracking completion rates, and lesson checklists.
 
-16. **[Vrite](https://github.com/vriteio/vrite)** [![GitHub stars](https://img.shields.io/github/stars/vriteio/vrite?style=social&color=white)](https://github.com/vriteio/vrite/stargazers)  
+16. **[Vrite](https://github.com/vriteio/vrite)** [![GitHub_Stars](https://img.shields.io/github/stars/vriteio/vrite?style=social&color=white)](https://github.com/vriteio/vrite/stargazers)  
     📝 Open-source collaborative developer content platform with Kanban workflows — suited for engineering-heavy revenue teams producing technical battlecards and API sales collateral.
 
 ---
