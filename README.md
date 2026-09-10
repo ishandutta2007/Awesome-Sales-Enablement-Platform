@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Seismic](https://seismic.com/)**  
-
-  Enterprise sales enablement platform strong in content management, governance, guided selling, and analytics (now consolidating with Highspot).
-
-
-
-- **[Highspot](https://www.highspot.com/)**  
-
-  Content-centric enablement platform known for AI-powered search, Smart Pages, engagement analytics, and seller experience (merging with Seismic).
-
-
-
-- **[Showpad](https://www.showpad.com/)**  
-
-  Sales enablement platform popular for field and visual selling, content delivery, and buyer engagement (combined with Bigtincan).
-
-
-
-- **[Allego](https://www.allego.com/)**  
-
-  Video-first learning, coaching, and enablement platform focused on readiness, role-play, and conversation-based skill development.
-
-
-
-- **[Mindtickle](https://www.mindtickle.com/)**  
-
-  Unified sales readiness platform combining training, coaching, content, and conversation intelligence for measurable competency.
-
-
-
-- **[Mediafly](https://www.mediafly.com/)**  
-
-  Revenue enablement and content platform with interactive experiences, analytics, and sales-play support.
-
-
-
-- **[SalesHood](https://saleshood.com/)**  
-
-  Mid-market enablement platform emphasizing fast deployment, training, coaching, and content for growing sales teams.
-
-
-
-- **[Bigtincan](https://www.bigtincan.com/)**  
-
-  Content and enablement platform strong in mobile and field-driven industries (now aligned with Showpad).
-
-
-
-- **[Pitcher](https://www.pitcher.com/)**  
-
-  Sales enablement and presentation platform focused on interactive content and guided selling experiences.
-
-
-
-- **[Paperflite](https://www.paperflite.com/)**  
-
-  Content experience and sales enablement platform for organizing, distributing, and tracking marketing and sales materials.
+| Product | Description | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Seismic](https://seismic.com/)** | Enterprise sales enablement platform strong in content management, governance, guided selling, and analytics (now consolidating with Highspot). | ~$30 – $60 / user / month (annual contracts; typical entry deployment starts ~$20,000/year) | No free forever plan; 14-day guided proof-of-concept / pilot available upon sales qualification |
+| **[Highspot](https://www.highspot.com/)** | Content-centric enablement platform known for AI-powered search, Smart Pages, engagement analytics, and seller experience (merging with Seismic). | ~$45 – $65 / user / month (annual billing; typical base annual contract starts ~$15,000–$25,000/year) | No free forever plan; 14 to 30-day scoped pilot/sandbox trial upon enterprise qualification |
+| **[Showpad](https://www.showpad.com/)** | Sales enablement platform popular for field and visual selling, content delivery, and buyer engagement (combined with Bigtincan). | ~$35 – $65 / user / month (Essential/Professional tiers, billed annually) | No free forever plan; 14-day assisted proof-of-concept trial upon demo request |
+| **[Allego](https://www.allego.com/)** | Video-first learning, coaching, and enablement platform focused on readiness, role-play, and conversation-based skill development. | ~$25 – $60 / user / month (tiered by seller vs. non-seller seats, billed annually) | No free forever plan; 14 to 30-day sales-approved enterprise sandbox trial |
+| **[Mindtickle](https://www.mindtickle.com/)** | Unified sales readiness platform combining training, coaching, content, and conversation intelligence for measurable competency. | ~$8 – $17 / user / month ($100–$200/user/year base readiness tier, min. annual contract typically $10,000+) | No free forever plan; 14-day sales-guided sandbox evaluation for qualified enterprise accounts |
+| **[Mediafly](https://www.mediafly.com/)** | Revenue enablement and content platform with interactive experiences, analytics, and sales-play support. | ~$30 – $50 / user / month (annual contract; typical minimum seat tier of 10–25 users) | No free forever plan; 14-day interactive content assessment sandbox upon demo request |
+| **[SalesHood](https://saleshood.com/)** | Mid-market enablement platform emphasizing fast deployment, training, coaching, and content for growing sales teams. | ~$45 – $50 / user / month (Essential edition, billed annually; Guided Selling add-on from $5/user/month) | No free forever plan; 30-day free trial available (full access to core enablement and coaching features) |
+| **[Bigtincan](https://www.bigtincan.com/)** | Content and enablement platform strong in mobile and field-driven industries (now aligned with Showpad). | ~$25 – $45 / user / month (Content Hub & Learning Hub starting tiers, billed annually) | No free forever plan; 14-day custom scoped proof-of-concept trial upon sales consultation |
+| **[Pitcher](https://www.pitcher.com/)** | Sales enablement and presentation platform focused on interactive content and guided selling experiences. | ~$20 – $35 / user / month (SuperApp base starting edition, billed annually) | No free forever plan; 14-day sales-guided proof-of-concept sandbox trial |
+| **[Paperflite](https://www.paperflite.com/)** | Content experience and sales enablement platform for organizing, distributing, and tracking marketing and sales materials. | $30 / user / month (Starter plan billed annually, min. 5 users; $39/user/month billed monthly) | No free forever plan; 14 to 15-day free trial (no credit card required, up to 5 user test seats) |
 
 
 
