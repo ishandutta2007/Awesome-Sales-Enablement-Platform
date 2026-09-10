@@ -1,166 +1,160 @@
-# Awesome-Sales-Enablement-Platform
+# 🚀 Awesome Sales Enablement Platform
 
-## Top Sales Enablement Platforms Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Enablement-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Enablement-Platform?style=flat-square&logo=github" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Enablement-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
+  <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Sales Enablement Platform Banner" width="100%" />
+</p>
 
-*Focused on Content Management, Sales Training, Coaching, Readiness, Guided Selling & Revenue Enablement*
+## 📌 Curated Ecosystem for Sales Enablement & Revenue Acceleration
+
+> A curated list of leading **SaaS platforms** and **open-source GitHub repositories** for **Sales Enablement, Revenue Readiness, AI Sales Coaching, Content Governance, Guided Selling, and Seller Onboarding**.
 
 **Last updated: September 2026**
 
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Sales Enablement**. These systems help sellers find the right content, stay trained and coached, deliver consistent buyer experiences, and close more deals with governed, up-to-date materials.
-
-
-
-**Examples** include Seismic, Highspot, Showpad, Allego, Mindtickle, Mediafly, SalesHood, Bigtincan, Pitcher, and Paperflite (the category leaders).
-
-
-
-**Open-source emphasis**: Full commercial sales enablement suites (content + training + coaching + analytics) are largely proprietary. Useful open options center on **content/knowledge platforms, LMS components, document management, and internal enablement stacks**. This section prioritizes those tools and is realistic about the gap.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-| Product | Description | Starting Pricing | Free Tier / Trial Limits |
-| :--- | :--- | :--- | :--- |
-| **[Seismic](https://seismic.com/)** | Enterprise sales enablement platform strong in content management, governance, guided selling, and analytics (now consolidating with Highspot). | ~$30 – $60 / user / month (annual contracts; typical entry deployment starts ~$20,000/year) | No free forever plan; 14-day guided proof-of-concept / pilot available upon sales qualification |
-| **[Highspot](https://www.highspot.com/)** | Content-centric enablement platform known for AI-powered search, Smart Pages, engagement analytics, and seller experience (merging with Seismic). | ~$45 – $65 / user / month (annual billing; typical base annual contract starts ~$15,000–$25,000/year) | No free forever plan; 14 to 30-day scoped pilot/sandbox trial upon enterprise qualification |
-| **[Showpad](https://www.showpad.com/)** | Sales enablement platform popular for field and visual selling, content delivery, and buyer engagement (combined with Bigtincan). | ~$35 – $65 / user / month (Essential/Professional tiers, billed annually) | No free forever plan; 14-day assisted proof-of-concept trial upon demo request |
-| **[Allego](https://www.allego.com/)** | Video-first learning, coaching, and enablement platform focused on readiness, role-play, and conversation-based skill development. | ~$25 – $60 / user / month (tiered by seller vs. non-seller seats, billed annually) | No free forever plan; 14 to 30-day sales-approved enterprise sandbox trial |
-| **[Mindtickle](https://www.mindtickle.com/)** | Unified sales readiness platform combining training, coaching, content, and conversation intelligence for measurable competency. | ~$8 – $17 / user / month ($100–$200/user/year base readiness tier, min. annual contract typically $10,000+) | No free forever plan; 14-day sales-guided sandbox evaluation for qualified enterprise accounts |
-| **[Mediafly](https://www.mediafly.com/)** | Revenue enablement and content platform with interactive experiences, analytics, and sales-play support. | ~$30 – $50 / user / month (annual contract; typical minimum seat tier of 10–25 users) | No free forever plan; 14-day interactive content assessment sandbox upon demo request |
-| **[SalesHood](https://saleshood.com/)** | Mid-market enablement platform emphasizing fast deployment, training, coaching, and content for growing sales teams. | ~$45 – $50 / user / month (Essential edition, billed annually; Guided Selling add-on from $5/user/month) | No free forever plan; 30-day free trial available (full access to core enablement and coaching features) |
-| **[Bigtincan](https://www.bigtincan.com/)** | Content and enablement platform strong in mobile and field-driven industries (now aligned with Showpad). | ~$25 – $45 / user / month (Content Hub & Learning Hub starting tiers, billed annually) | No free forever plan; 14-day custom scoped proof-of-concept trial upon sales consultation |
-| **[Pitcher](https://www.pitcher.com/)** | Sales enablement and presentation platform focused on interactive content and guided selling experiences. | ~$20 – $35 / user / month (SuperApp base starting edition, billed annually) | No free forever plan; 14-day sales-guided proof-of-concept sandbox trial |
-| **[Paperflite](https://www.paperflite.com/)** | Content experience and sales enablement platform for organizing, distributing, and tracking marketing and sales materials. | $30 / user / month (Starter plan billed annually, min. 5 users; $39/user/month billed monthly) | No free forever plan; 14 to 15-day free trial (no credit card required, up to 5 user test seats) |
-
-
-
-## Open-Source GitHub Projects
-
-- **[Vrite](https://github.com/vriteio/vrite)**  
-
-  Open-source collaborative content platform for documentation, knowledge bases, and technical content — useful as a governed enablement content hub.
-
-
-
-- **[BookStack](https://github.com/BookStackApp/BookStack)**  
-
-  Simple, self-hosted open-source platform for organizing and storing information — practical for internal sales playbooks and content libraries.
-
-
-
-- **[Outline](https://github.com/outline/outline)**  
-
-  Open-source, real-time collaborative knowledge base and wiki — strong for team playbooks, battle cards, and living sales content.
-
-
-
-- **[Wiki.js](https://github.com/requarks/wiki)**  
-
-  Modern, open-source wiki engine that can serve as a searchable, versioned sales content repository.
-
-
-
-- **[Frappe LMS / open learning platforms](https://github.com/frappe/lms)**  
-
-  Open-source learning management system suitable for sales onboarding, product training, and certification tracks.
-
-
-
-- **[Moodle and other open LMS](https://moodle.org/)**  
-
-  Mature open-source learning platforms frequently used for structured sales training and assessments.
-
-
-
-- **[Document and digital-asset open stacks](https://github.com/)**  
-
-  Self-hosted DAM, Nextcloud, or similar tools adapted for versioned sales collateral and access control.
-
-
-
-- **[Internal enablement portals built on static sites / CMS](https://github.com/)**  
-
-  Hugo, Docusaurus, or headless CMS projects turned into branded seller portals with search and tagging.
-
-
-
-- **[Coaching and role-play open experiments](https://github.com/)**  
-
-  Community tools and AI agents that support practice pitches, objection handling, and feedback loops.
-
-
-
-- **[CRM + content integration open scripts](https://github.com/)**  
-
-  Lightweight connectors that surface the right content inside CRM or sales workflows from open repositories.
-
-
-
-### Additional Strong Open-Source Options
-
-- Building a governed content library with **Outline**, **BookStack**, or **Wiki.js** and pairing it with an open LMS for training.
-
-- Using static-site or headless CMS approaches for fast, searchable battle cards and playbooks.
-
-- Combining open knowledge bases with existing CRM and conversation tools for a lightweight enablement stack.
-
-- Accepting that AI content recommendations, deep engagement analytics, guided selling experiences, and polished coaching workflows still favor commercial platforms.
-
-- Starting with open content + training foundations for smaller teams, then evaluating full enablement suites as scale and governance needs grow.
-
-
-
-**Frameworks for building custom systems**: Centralize content in an open knowledge base (Outline/BookStack/Vrite) → deliver training via open LMS → surface materials inside CRM or a simple portal → track usage with basic analytics. This covers core enablement needs. Commercial platforms (Seismic/Highspot, Showpad, Allego, Mindtickle, Mediafly, SalesHood, etc.) remain the practical choice for enterprise content governance, AI-guided selling, coaching at scale, and unified readiness analytics.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Sales enablement systems distribute official messaging, pricing, and competitive content. Outdated or incorrect materials can create legal, brand, or deal risk. Open-source deployments require strong access control, versioning, and review processes. Always keep content current and aligned with legal/compliance requirements. This list is not sales, legal, or enablement strategy advice.
-
-
+---
+
+## 📖 Table of Contents
+
+- [🌐 Market Overview & Ecosystem Dynamics](#-market-overview--ecosystem-dynamics)
+- [🏢 SaaS & Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🏗️ Open-Source Sales Enablement Stack Blueprint](#️-open-source-sales-enablement-stack-blueprint)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
 ---
 
-**Made for sales enablement leaders, RevOps, and revenue teams who want sellers equipped with the right content and skills.**
+## 🌐 Market Overview & Ecosystem Dynamics
 
-Let's keep enablement practical, governed, and as open as the use case allows.
+> 📊 **Estimated Market Size & Structure**: The global Sales Enablement Platform market is estimated at **~$4.8 Billion** and is projected to surpass **$12.5 Billion by 2031** (~19.5% CAGR). The sector is **moderately concentrated at the high-end enterprise tier** (evidenced by major consolidation such as Seismic + Highspot and Showpad + Bigtincan creating dominant $200M–$600M ARR powerhouses), while remaining **moderately fragmented across mid-market, interactive demo, and specialized AI coaching / video readiness niches**.
+
+---
+
+## 🏢 SaaS & Hosted Commercial Platforms
+
+The commercial sales enablement landscape features end-to-end suites delivering content governance, digital sales rooms (DSR), conversational intelligence, and AI-assisted guided selling.
+
+| Product | Valuation / Revenue | Description | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Highspot](https://www.highspot.com/)** | 💰 **~$3.5B Valuation**<br>*(~$450M ARR; merged with Seismic in ~$600M ARR combo)* | 🎯 Content-centric enablement platform recognized for AI-powered semantic search, Smart Pages, buyer engagement analytics, and unified seller experience. | ~$45 – $65 / user / month *(annual billing; typical entry contract starts ~$15,000–$25,000/year)* | No free forever plan; 14 to 30-day scoped pilot/sandbox trial upon enterprise qualification |
+| **[Seismic](https://seismic.com/)** | 💰 **~$3.0B Valuation**<br>*(~$400M ARR)* | 🏢 Enterprise-grade sales enablement platform known for rigorous content governance, automated document assembly, guided selling, and deep CRM integrations. | ~$30 – $60 / user / month *(annual contract; typical enterprise deployment starts ~$20,000/year)* | No free forever plan; 14-day guided proof-of-concept / pilot available upon sales qualification |
+| **[Mindtickle](https://www.mindtickle.com/)** | 💰 **~$1.2B Valuation**<br>*(~$118M ARR)* | 🧠 Comprehensive sales readiness and revenue productivity platform integrating structured onboarding, video coaching, call intelligence, and skill gap analytics. | ~$8 – $17 / user / month *($100–$200/user/year base readiness tier, min. annual contract typically $10,000+)* | No free forever plan; 14-day sales-guided sandbox evaluation for qualified enterprise accounts |
+| **[Showpad](https://www.showpad.com/)** | 💰 **~$1.0B Valuation**<br>*(~$145M ARR; merged with Bigtincan under Vector Capital)* | 📱 Leading visual and field enablement platform optimized for interactive tablet/mobile presentations, shared spaces, and buyer content engagement. | ~$35 – $65 / user / month *(Essential/Professional tiers, billed annually)* | No free forever plan; 14-day assisted proof-of-concept trial upon demo request |
+| **[Allego](https://www.allego.com/)** | 💰 **~$300M–$500M Est. Valuation**<br>*(~$130M–$196M Revenue)* | 🎥 Video-first learning, coaching, and enablement suite built for rapid asynchronous pitch practice, interactive role-playing, and call analysis. | ~$25 – $60 / user / month *(tiered by seller vs. non-seller seats, billed annually)* | No free forever plan; 14 to 30-day sales-approved enterprise sandbox trial |
+| **[Mediafly](https://www.mediafly.com/)** | 💰 **~$150M–$250M Est. Valuation**<br>*(~$30M–$40M ARR; $193M Total Funding)* | 💼 Revenue enablement and interactive presentation platform supporting ROI calculators, dynamic sales plays, and sophisticated content analytics. | ~$30 – $50 / user / month *(annual contract; typical minimum seat tier of 10–25 users)* | No free forever plan; 14-day interactive content assessment sandbox upon demo request |
+| **[Bigtincan](https://www.bigtincan.com/)** | 💰 **~A$183M ($120M USD) Acq. Value**<br>*(~$78M–$100M+ Revenue; merged with Showpad)* | 🌍 Mobile-first enablement and automation platform specialized for complex distributed workforces, offline access, and field sales teams. | ~$25 – $45 / user / month *(Content Hub & Learning Hub starting tiers, billed annually)* | No free forever plan; 14-day custom scoped proof-of-concept trial upon sales consultation |
+| **[SalesHood](https://saleshood.com/)** | 💰 **~$50M–$100M Est. Valuation**<br>*(~$15M–$21M ARR)* | ⚡ Rapidly deployable mid-market enablement platform focusing on peer-to-peer coaching, guided sales plays, training cadences, and content hubs. | ~$45 – $50 / user / month *(Essential edition, billed annually; Guided Selling add-on from $5/user/month)* | No free forever plan; 30-day free trial available *(full access to core enablement and coaching features)* |
+| **[Pitcher](https://www.pitcher.com/)** | 💰 **~$50M–$80M Est. Valuation**<br>*(~$15M–$25M ARR)* | 📊 SuperApp for sales enablement offering compliant closed-loop interactive presentations, ERP/CRM synchronization, and guided field selling. | ~$20 – $35 / user / month *(SuperApp base starting edition, billed annually)* | No free forever plan; 14-day sales-guided proof-of-concept sandbox trial |
+| **[Paperflite](https://www.paperflite.com/)** | 💰 **~$30M–$50M Est. Valuation**<br>*(~$15M–$21M ARR)* | 📄 Content experience and collateral distribution platform enabling reps to curate personalized content micro-sites and track buyer interaction heatmap data. | $30 / user / month *(Starter plan billed annually, min. 5 users; $39/user/month billed monthly)* | No free forever plan; 14 to 15-day free trial *(no credit card required, up to 5 user test seats)* |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Open-source solutions empower engineering and RevOps teams to build custom, self-hosted, and sovereign sales enablement architectures without vendor lock-in.
+
+*Sorted descending by GitHub stargazers count:*
+
+1. **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+   ✨ Open-source, self-hosted collaborative workspace and Notion alternative — ideal for building internal sales wikis, pitch playbooks, competitor battlecards, and customer-facing project notes.
+
+2. **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+   🎨 Next-generation all-in-one knowledge base and visual whiteboard — perfect for visual discovery workshops, deal room mapping, and interactive collaborative pitch planning.
+
+3. **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+   💼 Modern, extendable open-source CRM and sales operating system designed to provide full data control and natively connect reps to playbooks and deals.
+
+4. **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
+   🤖 Drag-and-drop UI to build customized LLM flows — used to deploy custom AI role-play simulators, objection-handling bots, and real-time playbook retrieval agents for sellers.
+
+5. **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)  
+   📅 Open-source scheduling infrastructure enabling sales teams to streamline demo routing, SDR-to-AE handoffs, and qualification meeting bookings.
+
+6. **[Outline](https://github.com/outline/outline)** [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
+   📚 Blazing fast, intuitive open-source team knowledge base — standard tool for hosting governed sales playbooks, objection scripts, product FAQs, and battle cards.
+
+7. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+   💬 Open-source omnichannel buyer engagement and customer communication platform for real-time seller chat, inbound qualification, and buyer assistance.
+
+8. **[Wiki.js](https://github.com/requarks/wiki)** [![GitHub stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers)  
+   📖 Feature-rich, highly configurable open-source wiki engine with Git storage backends, Markdown/rich-text support, and granular permission controls for sales documentation.
+
+9. **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+   ⚡ Open-source no-code business automation tool — seamlessly routes collateral, triggers enablement notifications in Slack/Discord, and automates CRM workflows.
+
+10. **[BookStack](https://github.com/BookStackApp/BookStack)** [![GitHub stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers)  
+    📑 Simple, opinionated open-source documentation system structured like Books, Chapters, and Pages — ideal for organizing step-by-step seller certification guides.
+
+11. **[Documenso](https://github.com/documenso/documenso)** [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)  
+    ✍️ The open-source DocuSign alternative — provides verifiable electronic signatures, automated agreement generation, and proposal closing workflows for sales reps.
+
+12. **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
+    📋 Privacy-first experience management and micro-survey platform — measures buyer readiness, demo satisfaction, and seller training efficacy.
+
+13. **[Typebot](https://github.com/baptisteArno/typebot.io)** [![GitHub stars](https://img.shields.io/github/stars/baptisteArno/typebot.io?style=social&color=white)](https://github.com/baptisteArno/typebot.io/stargazers)  
+    🛠️ Visual conversational form and chatbot builder — qualifies leads, dispenses relevant case studies dynamically, and schedules prospect meetings.
+
+14. **[Moodle](https://github.com/moodle/moodle)** [![GitHub stars](https://img.shields.io/github/stars/moodle/moodle?style=social&color=white)](https://github.com/moodle/moodle/stargazers)  
+    🎓 Battle-tested open-source learning management system (LMS) used globally for structured seller onboarding curriculum, compliance quizzes, and multi-tier certifications.
+
+15. **[Frappe LMS](https://github.com/frappe/lms)** [![GitHub stars](https://img.shields.io/github/stars/frappe/lms?style=social&color=white)](https://github.com/frappe/lms/stargazers)  
+    🧑‍🏫 Modern, lightweight open-source LMS built on Python/Frappe framework — excellent for modular sales onboarding courses, tracking completion rates, and lesson checklists.
+
+16. **[Vrite](https://github.com/vriteio/vrite)** [![GitHub stars](https://img.shields.io/github/stars/vriteio/vrite?style=social&color=white)](https://github.com/vriteio/vrite/stargazers)  
+    📝 Open-source collaborative developer content platform with Kanban workflows — suited for engineering-heavy revenue teams producing technical battlecards and API sales collateral.
+
+---
+
+## 🏗️ Open-Source Sales Enablement Stack Blueprint
+
+```
++-----------------------------------------------------------------------------------+
+|                        CUSTOM REVENUE ENABLEMENT ARCHITECTURE                     |
++-----------------------------------------------------------------------------------+
+|  1. COLLATERAL & PLAYBOOKS  |  Outline / BookStack / AppFlowy / AFFiNE             |
+|  2. ONBOARDING & TRAINING   |  Frappe LMS / Moodle (Quizzes & Certifications)     |
+|  3. CONVERSATIONAL AI & BOT |  Flowise (RAG over Playbooks) + Typebot             |
+|  4. SALES SCHEDULING & CRM  |  Cal.com + Twenty CRM                               |
+|  5. PROPOSALS & CONTRACTS   |  Documenso (E-Signatures & Deal Room Agreements)    |
+|  6. WORKFLOW & INTEGRATION  |  Activepieces (Slack / Webhook automation)          |
++-----------------------------------------------------------------------------------+
+```
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are highly encouraged! To add or refine entries:
+
+1. 🍴 **Fork the repository**.
+2. ✍️ **Add or update entries** in `README.md` following the standard table/list formats.
+3. 🔗 **Include verified data**: links, concise descriptions, starting pricing tiers, and precise free trial/tier limits.
+4. 🚀 **Submit a Pull Request** with a clear explanation of changes.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Sales-Enablement-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Sales-Enablement-Platform&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- ℹ️ This is a **community-curated index** for educational and reference purposes and does not constitute formal commercial endorsement.
+- 🛡️ Sales enablement materials, pricing calculators, and competitive battlecards contain company messaging and compliance risk. Self-hosted deployments require adequate access governance, encryption, and regular content audits.
+
+---
+
+<p align="center">
+  <sub>Built with ❤️ for Revenue Leaders, Sales Operations, and Growth Teams.</sub>
+</p>
